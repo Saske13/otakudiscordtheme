@@ -3357,7 +3357,7 @@ a:link {
     background-color: rgba(0,0,0,0.70); /*important, transparent background*/
     border-bottom: 1px solid rgba(0,0,0,.1)!important;
     height: 30px;
-    display: flex;
+    display: block;
     flex-direction: row;
     padding-right: 1px!important;
     color: white;
