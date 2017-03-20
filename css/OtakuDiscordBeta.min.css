@@ -4595,7 +4595,7 @@ p {
 }
 /*Kyo-chan tags*/
 .guild-settings-modal-members .avatar-small[style*='238759102430314496'] + .member-inner .member-username::after, .message-group .avatar-large[style*='238759102430314496'] + .comment .user-name::after {
-    content: "OT Team";    
+    content: "OT Neko";    
 }
 .avatar-small[style*='238759102430314496'] + .member-inner .member-username-inner::after, .guild-settings-modal-members .avatar-small[style*='238759102430314496'] + .member-inner .member-username::after, .message-group .avatar-large[style*='238759102430314496'] + .comment .user-name:hover::after {
     content: "OtakuDiscord Team";
@@ -4604,7 +4604,7 @@ p {
 
 } 
 .avatar-small[style*='238759102430314496'] + .member-inner .member-username-inner::after {
-    content: "OT TEAM"; 
+    content: "OT Neko"; 
 }
 
 .avatar-small[style*='238759102430314496'] + .member-inner .member-username-inner::after, .guild-settings-modal-members .avatar-small[style*='238759102430314496'] + .member-inner .member-username::after, .avatar-popout[style*='154592238754594816']::after, .avatar-profile[style*='238759102430314496']::after, .message-group .avatar-large[style*='238759102430314496'] + .comment .user-name::after {
